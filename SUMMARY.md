@@ -11,6 +11,8 @@
   * [2012](portfolio/2012.md)
   * [2011.05~2011.12](portfolio/2011.05-2011.12.md)
 * [Licence & External activity](licence-and-external-activity.md)
+* [remembrance](remembrance/README.md)
+  * [2018년](remembrance/2018.md)
 * [한번 쯤 생각해볼 만한 글들](undefined.md)
 * [IT용어 및 기술](it/README.md)
   * [Lazy Loading 이란?](it/lazy-loading.md)
@@ -28,8 +30,6 @@
 * [함수란 대체 무엇인가?](js/undefined.md)
 * [객체와 변경불가성](js/undefined-1.md)
 * [\[basic\] vue.js 설명 및 예제](js/basic-vue.js.md)
-* [remembrance](js/remembrance/README.md)
-  * [2018년](js/remembrance/2018.md)
 
 ## Docker
 
